@@ -1,0 +1,3 @@
+# Ignoring mac system files
+.DS_Store
+design/.DS_Store
