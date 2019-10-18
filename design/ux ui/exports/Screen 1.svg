@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="1168" width="1280">
+  <defs>
+    <rect id="rect-1" opacity="1" x="0" y="0" width="1280" height="1168"/>
+    <rect id="rect-2" opacity="1" x="400" y="144" width="480" height="120"/>
+    <rect id="rect-3" opacity="1" x="0" y="0" width="184" height="32"/>
+    <mask id="mask-4" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="-419.9169628806504" y="-208.89662433972455">
+      <rect opacity="1" x="-419.9169628806504" y="-208.89662433972455" width="1280" height="1168" fill="white"/>
+      <use xlink:href="#rect-3" fill="black"/>
+    </mask>
+    <rect id="rect-5" opacity="1" x="0" y="0" width="72" height="32"/>
+    <mask id="mask-6" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="-619.9169628806503" y="-208.89662433972455">
+      <rect opacity="1" x="-619.9169628806503" y="-208.89662433972455" width="1280" height="1168" fill="white"/>
+      <use xlink:href="#rect-5" fill="black"/>
+    </mask>
+    <rect id="rect-7" opacity="1" x="400" y="304" width="480" height="120"/>
+    <rect id="rect-8" opacity="1" x="0" y="0" width="184" height="32"/>
+    <mask id="mask-9" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="-419.9169628806504" y="-368.89662433972455">
+      <rect opacity="1" x="-419.9169628806504" y="-368.89662433972455" width="1280" height="1168" fill="white"/>
+      <use xlink:href="#rect-8" fill="black"/>
+    </mask>
+    <rect id="rect-10" opacity="1" x="400" y="464" width="480" height="368"/>
+    <rect id="rect-11" opacity="1" x="504" y="888" width="248" height="72"/>
+    <mask id="mask-12" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="-424" y="-672">
+      <rect opacity="1" x="-424" y="-672" width="1280" height="1168" fill="black"/>
+      <use xlink:href="#rect-11" fill="white"/>
+    </mask>
+  </defs>
+  <g>
+    <g opacity="1">
+      <g opacity="1">
+        <use xlink:href="#rect-2" fill="rgb(242,242,242)" fill-opacity="1"/>
+      </g>
+      <g opacity="1">
+        <g transform="translate(419.9169628806504, 208.89662433972455)" opacity="1">
+          <g opacity="1">
+            <use xlink:href="#rect-3" fill="rgb(255,255,255)" fill-opacity="1"/>
+            <use xlink:href="#rect-3" fill-opacity="0" stroke="rgb(128,128,128)" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" mask="url(#mask-4)"/>
+          </g>
+        </g>
+        <g transform="translate(619.9169628806503, 208.89662433972455)" opacity="1">
+          <g opacity="1">
+            <use xlink:href="#rect-5" fill="rgb(51,153,255)" fill-opacity="1"/>
+            <use xlink:href="#rect-5" fill-opacity="0" stroke="rgb(22,72,121)" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" mask="url(#mask-6)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g opacity="1">
+      <g opacity="1">
+        <use xlink:href="#rect-7" fill="rgb(242,242,242)" fill-opacity="1"/>
+      </g>
+      <g opacity="1">
+        <g transform="translate(419.9169628806504, 368.89662433972455)" opacity="1">
+          <g opacity="1">
+            <use xlink:href="#rect-8" fill="rgb(255,255,255)" fill-opacity="1"/>
+            <use xlink:href="#rect-8" fill-opacity="0" stroke="rgb(128,128,128)" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" mask="url(#mask-9)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g opacity="1">
+      <g opacity="1">
+        <use xlink:href="#rect-10" fill="rgb(242,242,242)" fill-opacity="1"/>
+      </g>
+      <g opacity="1"/>
+    </g>
+    <g transform="translate(424, 528)" opacity="1">
+      <g opacity="1"/>
+    </g>
+    <g transform="translate(424, 672)" opacity="1">
+      <g opacity="1"/>
+    </g>
+    <g opacity="1">
+      <use xlink:href="#rect-11" fill="rgb(42,201,64)" fill-opacity="1"/>
+      <use xlink:href="#rect-11" fill-opacity="0" stroke="rgb(26,123,39)" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" mask="url(#mask-12)"/>
+    </g>
+  </g>
+</svg>
